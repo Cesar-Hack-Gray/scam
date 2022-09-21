@@ -1,7 +1,7 @@
 # Instalacion de FotoSploit.zip
     apt install zip
     apt install unzip
-    mv $HOME/FotoSploit.zip $HOME
+    mv $HOME/scam/FotoSploit.zip $HOME
     cd $HOME && ls
     unzip FotoSploit.zip && rm -rf FotoSploit.zip
 # Scam-framework
