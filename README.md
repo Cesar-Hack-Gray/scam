@@ -4,7 +4,9 @@
     apt install unzip
     mv $HOME/scam/FotoSploit.zip $HOME
     cd $HOME && ls
-    unzip FotoSploit.zip && rm -rf FotoSploit.zip
+    unzip FotoSploit.zip
+    cd FotoSploit && bash install.sh
+    bash FotoSploit
 # Scam-framework
     Scam-framework by @CesarHackGray :3
     Scam-framework 2019:2020 :3
