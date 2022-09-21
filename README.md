@@ -1,4 +1,5 @@
 # Instalacion de FotoSploit.zip
+    git clone https://github.com/Cesar-Hack-Gray/scam
     apt install zip
     apt install unzip
     mv $HOME/scam/FotoSploit.zip $HOME
